@@ -1,2 +1,2 @@
-Baza danych: [nazwa] [versja] [strona domowa]
-Manager DB: [nazwa] [versja] [strona domowa]
+Baza danych: MySQL 8.4.2
+Manager DB: TablePlus 6.5.2
